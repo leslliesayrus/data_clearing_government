@@ -7,6 +7,6 @@ There's three diferent files about reaction to a medication:
 
 - Informations about the notifications 
 
-- Informations about the event the reaction 
+- Informations about the reaction 
 
 - Informations about the medications 
